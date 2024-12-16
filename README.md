@@ -27,7 +27,7 @@ To run this project, you'll need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/vue-vuetify-ecommerce-filter.git
+   git clone https://github.com/Erahdekavadiya/ecommerce-vuetify-v2.git
    cd vue-vuetify-ecommerce-filter
    ```
 
@@ -124,5 +124,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - **Vue.js** - A progressive JavaScript framework for building user interfaces.
 - **Vuetify** - A Material Design framework for Vue.js.
-
----
